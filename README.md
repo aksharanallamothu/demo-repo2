@@ -1,2 +1,2 @@
-#demo 2
+#demo-repo2
 some text
